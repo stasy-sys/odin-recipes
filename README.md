@@ -9,11 +9,11 @@
 7. ~~Add a link to go back to index page.~~
 
 ### Iteration: recipe page content
-1. Add image of the finished dish under the deading
-2. Add "Description" heading followed by a paragraph or two describing the recipe
-3. Add "Ingredients" heading followed by an <ul> of ingredients.
+1. ~~Add image of the finished dish under the heading~~
+2. ~~Add "Description" heading followed by a paragraph or two describing the recipe~~
+3. ~~Add "Ingredients" heading followed by an <ul> of ingredients.~~
 
-4. Add "Steps" heading followed by an <ol> of the steps needed for making the dish.
+4. ~~Add "Steps" heading followed by an <ol> of the steps needed for making the dish.~~
 
 ### Iteration: add more recipies
 1. Add 2 more recipies
