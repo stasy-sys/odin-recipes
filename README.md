@@ -1,4 +1,5 @@
 # This is html section practice for odin project
+ Todo: Build a basic recipe website. For inspo: https://www.allrecipes.com/
 ## Steps
 1. ~~Create odin-recipes repo in github.~~
 2. ~~Add readme.md file.~~
@@ -16,5 +17,5 @@
 4. ~~Add "Steps" heading followed by an <ol> of the steps needed for making the dish.~~
 
 ### Iteration: add more recipies
-1. Add 2 more recipies
-2. Link them to the index page
+1. ~~Add 2 more recipies~~
+2. ~~Link them to the index page~~
